@@ -17,3 +17,7 @@ dvc init
 mkdir -p src/utils
 touch dvc.yaml setup.py
 ```
+### install src
+```
+pip install -e .
+```
