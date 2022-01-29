@@ -130,5 +130,5 @@ dmypy.json
 .vscode/
 # ignore the secrets files
 config/secrets.yaml
-./env
+/env
 /data
