@@ -129,4 +129,5 @@ yarl==1.7.2
 zc.lockfile==2.0
 zipp==3.7.0
 joblib==1.1.0
+scipy
 -e .
